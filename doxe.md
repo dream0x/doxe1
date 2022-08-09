@@ -37,6 +37,7 @@ Another projects:
 - [Sui network](https://mystenlabs.com/)
 - [Espresso Systems](https://www.espressosys.com/)
 - [Obol Network](https://obol.tech/)
+- [SubQuery](https://subquery.network/)
 
 ## Archive:
 
@@ -45,3 +46,12 @@ Another projects:
 - [Stafihub](https://www.stafihub.io/)
 - [Another-1](https://linktr.ee/marketing_another.1)
 - [Paloma](https://t.me/palomachain)
+
+## Active Contributor:
+
+- [BNB Chain]()
+- [TheGraph]()
+- [Connext]()
+- [Moonbeam]()
+- [ClayStack]()
+- [Let's Node Team]()
