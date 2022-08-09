@@ -14,5 +14,6 @@ Here is my social, feel free to contact if you have any questions:
 - GitHub: https://github.com/doxe1
 
 My portfolio:
+- Networks: https://github.com/doxe1/doxe1/blob/main/doxe.md
 - Translation blog: https://www.notion.so/doxe/Alexander-doxe-80e16bfced1e4be2aec86a954c811e3b
 - Cosmos Jobs: https://jobs.cosmos.network/contributor/alexander-qvf6w3u-community-moderator-manager-ukraine/
