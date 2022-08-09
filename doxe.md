@@ -23,4 +23,12 @@ Cosmos SDK projects:
 - [Teritori](https://teritori.explorers.guru/validator/torivaloper16thhk7v3t50hu2ctwpnrhs5eqlt6rdswsd9vu0)
 - [Rebus](https://rebus.explorers.guru/validator/rebusvaloper1cwca9kut6awy7wua30qctscwv77j3h4cmnchk0)
 
+Another projects:
 
+- [Massa]([https://www.defund.app/](https://massa.net/)
+- [Masa](https://www.masa.finance/)
+- [Aptos](https://github.com/aptos-labs/aptos-core)
+- [StarkNet](https://starknet.io/)
+- [Minima](https://www.minima.global/)
+- [Quai](https://quai.network/)
+- [Subspace](https://github.com/subspace)
