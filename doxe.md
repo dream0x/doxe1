@@ -32,3 +32,8 @@ Another projects:
 - [Minima](https://www.minima.global/)
 - [Quai](https://quai.network/)
 - [Subspace](https://github.com/subspace)
+- [Zeitgeist]()
+- [Humanode](https://humanode.io/)
+- [Sui network](https://mystenlabs.com/)
+- [Espresso Systems](https://www.espressosys.com/)
+- [Obol Network]()
