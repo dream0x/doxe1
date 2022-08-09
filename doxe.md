@@ -25,7 +25,7 @@ Cosmos SDK projects:
 
 Another projects:
 
-- [Massa]([https://www.defund.app/](https://massa.net/)
+- [Massa](https://massa.net/)
 - [Masa](https://www.masa.finance/)
 - [Aptos](https://github.com/aptos-labs/aptos-core)
 - [StarkNet](https://starknet.io/)
@@ -36,4 +36,12 @@ Another projects:
 - [Humanode](https://humanode.io/)
 - [Sui network](https://mystenlabs.com/)
 - [Espresso Systems](https://www.espressosys.com/)
-- [Obol Network]()
+- [Obol Network](https://obol.tech/)
+
+## Archive:
+
+- [Archway](https://github.com/archway-network)
+- [Kujira](https://kujira.app/)
+- [Stafihub](https://www.stafihub.io/)
+- [Another-1](https://linktr.ee/marketing_another.1)
+- [Paloma](https://t.me/palomachain)
