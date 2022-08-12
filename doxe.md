@@ -16,7 +16,6 @@ Cosmos SDK projects:
 
 - [DeFund](https://www.defund.app/)
 - [Sei Network](https://github.com/sei-protocol)
-- [Clan Network](https://testnet.explorer.testnet.run/Clan%20Network/staking/clanvaloper1597ypa5tfzjap2pc6wypn04n4e6rl30amj9967)
 - [DWS](https://dws.explorers.guru/validator/dewebvaloper1yxr0k94s25qck0umqdapqgtftk7a66trvs0vuf)
 - [Crowd Control](https://explorer.theamsolutions.info/Cardchain/staking/ccvaloper1n44vc78vjmuvpfcaxarzta8wsutrh08c28a7tj)
 - [Stribe](https://stride.explorers.guru/validator/stridevaloper1glnxsl9wtma3d4j4c4cd0r9vzcpqg29rhzjlh5)
@@ -46,6 +45,7 @@ Another projects:
 - [Stafihub](https://www.stafihub.io/)
 - [Another-1](https://linktr.ee/marketing_another.1)
 - [Paloma](https://t.me/palomachain)
+- [Clan Network](https://testnet.explorer.testnet.run/Clan%20Network/staking)
 
 ## Active Contributor:
 
