@@ -31,6 +31,7 @@ Another projects:
 - [Minima](https://www.minima.global/)
 - [Quai](https://quai.network/)
 - [Subspace](https://github.com/subspace)
+- [Aleo](https://www.aleo.org/)
 - [Zeitgeist]()
 - [Humanode](https://humanode.io/)
 - [Sui network](https://mystenlabs.com/)
