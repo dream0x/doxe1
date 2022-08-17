@@ -55,4 +55,6 @@ Another projects:
 - [Connext]()
 - [Moonbeam]()
 - [ClayStack]()
+- [Stride]()
+- [Massa]()
 - [Let's Node Team]()
