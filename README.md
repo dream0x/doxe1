@@ -14,6 +14,7 @@ Here is my social, feel free to contact if you have any questions:
 - Twitter: https://twitter.com/CryptoInstinckt
 - Discord: Instinckt | Let's Earn#2431
 - GitHub: https://github.com/doxe1
+- LinkedIn: https://www.linkedin.com/in/alexdoxe/
 
 My portfolio:
 - Networks: https://github.com/doxe1/doxe1/blob/main/doxe.md
