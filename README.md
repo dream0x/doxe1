@@ -6,7 +6,7 @@ My main vision and goal is to help newbies and make their acquaintance with cryp
 
 Overall, it's been going on for about 2 years, I'm very excited and passionate about it.
 
-I actively participate in testnets of young networks, sometimes even become a genesis validator in mainnets.
+I actively participate in testnets of young networks, sometimes even become a genesis validator in mainnets. Networks: https://github.com/doxe1/doxe1/blob/main/doxe.md
 
 Here is my social, feel free to contact if you have any questions:
 
@@ -17,6 +17,5 @@ Here is my social, feel free to contact if you have any questions:
 - LinkedIn: https://www.linkedin.com/in/alexdoxe/
 
 My portfolio:
-- Networks: https://github.com/doxe1/doxe1/blob/main/doxe.md
 - Translation blog: https://www.notion.so/doxe/Alexander-doxe-80e16bfced1e4be2aec86a954c811e3b
 - Cosmos Jobs (CV): https://jobs.cosmos.network/contributor/alexander-qvf6w3u-community-moderator-manager-ukraine/
