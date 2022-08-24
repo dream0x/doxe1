@@ -4,7 +4,7 @@ Some info about me - deep passion for web3 and decentralization. 2+ years in the
 
 My main vision and goal is to help newbies and make their acquaintance with crypto easier, that's why I write guides, most of it is in English, but I also actively support Ukrainian and Russian languages. I'm creating or supporting English/Ukrainian/Russian thematic chats as administrator, where I'm helping participants with the same geeks.
 
-Overall, it's been going on for about 2 years, I'm very excited and passionate about it.
+Overall, it's been going on for about 2 years, I'm very excited and passionate about it. I pay close attention to each of my validators, I support them both with my time, 24 hours a day, as well as using programs and more for monitoring, namely - Grafana + Prometeus + Telegram alerts. Maintaining a healthy validator is one of my major goals.
 
 I actively participate in testnets of young networks, sometimes even become a genesis validator in mainnets. Networks: https://github.com/doxe1/doxe1/blob/main/doxe.md
 
