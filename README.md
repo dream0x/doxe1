@@ -11,7 +11,7 @@ I actively participate in testnets of young networks, sometimes even become a ge
 Here is my social, feel free to contact if you have any questions:
 
 - Telegram: https://t.me/doxe01
-- Twitter: https://twitter.com/CryptoInstinckt
+- Twitter: https://twitter.com/doxe001
 - Discord: Instinckt | Let's Earn#2431
 - GitHub: https://github.com/doxe1
 - LinkedIn: https://www.linkedin.com/in/alexdoxe/
