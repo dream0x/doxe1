@@ -15,12 +15,9 @@ I actively participate in testnets of young networks, sometimes even become a ge
 Cosmos SDK projects:
 
 - [DeFund](https://www.defund.app/)
-- [Sei Network](https://github.com/sei-protocol)
 - [DWS](https://dws.explorers.guru/validator/dewebvaloper1yxr0k94s25qck0umqdapqgtftk7a66trvs0vuf)
 - [Crowd Control](https://explorer.theamsolutions.info/Cardchain/staking/ccvaloper1n44vc78vjmuvpfcaxarzta8wsutrh08c28a7tj)
-- [Stribe](https://stride.explorers.guru/validator/stridevaloper1glnxsl9wtma3d4j4c4cd0r9vzcpqg29rhzjlh5)
 - [Teritori](https://teritori.explorers.guru/validator/torivaloper16thhk7v3t50hu2ctwpnrhs5eqlt6rdswsd9vu0)
-- [Rebus](https://rebus.explorers.guru/validator/rebusvaloper1cwca9kut6awy7wua30qctscwv77j3h4cmnchk0)
 
 Another projects:
 
@@ -49,6 +46,7 @@ Another projects:
 - [Clan Network](https://testnet.explorer.testnet.run/Clan%20Network/staking)
 - [Stride](https://stride.zone/)
 - [Rebus](https://www.rebuschain.com/)
+- [Sei Network](https://github.com/sei-protocol)
 
 ## Active Contributor:
 
