@@ -18,6 +18,7 @@ Cosmos SDK projects:
 - [DWS](https://dws.explorers.guru/validator/dewebvaloper1yxr0k94s25qck0umqdapqgtftk7a66trvs0vuf)
 - [Crowd Control](https://explorer.theamsolutions.info/Cardchain/staking/ccvaloper1n44vc78vjmuvpfcaxarzta8wsutrh08c28a7tj)
 - [Teritori](https://teritori.explorers.guru/validator/torivaloper16thhk7v3t50hu2ctwpnrhs5eqlt6rdswsd9vu0)
+- [Haqq](https://haqq.explorers.guru/validator/haqqvaloper1q36msyrnun4aaxp86mkhjn0dudua7wu7cuu5q6)
 
 Another projects:
 
