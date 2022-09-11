@@ -1,3 +1,4 @@
+![doxe](https://github.com/doxe1/doxe1/blob/main/git-doxe.png)
 Howdy, I'm Alex, aka **@doxe** experienced web3 enthusiast, contributor, moderator and PoS/PoW validator, also just a friendly person
 
 Some info about me - deep passion for web3 and decentralization. 2+ years in the crypto space with strong knowledge and use of DeFi dApps, L1/L2 blockchains and yield farming strategies. I thrive on daily ingestion of new developments in web3, including DeFi, community engagement and problem solving. Contributor, detail-oriented with a curious mind. What keeps me engaged is the fact that I learn something new every single day.
