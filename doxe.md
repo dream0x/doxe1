@@ -47,6 +47,8 @@ Another projects:
 - [Another-1](https://linktr.ee/marketing_another.1)
 - [Paloma](https://t.me/palomachain)
 - [Clan Network](https://testnet.explorer.testnet.run/Clan%20Network/staking)
+- [Stride](https://stride.zone/)
+- [Rebus](https://rebus.explorers.guru/validator/rebusvaloper1cwca9kut6awy7wua30qctscwv77j3h4cmnchk0)
 
 ## Active Contributor:
 
