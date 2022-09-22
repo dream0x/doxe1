@@ -39,6 +39,7 @@ Another projects:
 - [Obol Network](https://obol.tech/)
 - [SubQuery](https://subquery.network/)
 - [Transformers](https://tfsc.io/#/pc/Index)
+- [TIDEFI](https://tidefi.com/)
 
 ## Archive:
 
