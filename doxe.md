@@ -21,6 +21,7 @@ Cosmos SDK projects:
 - [Teritori](https://teritori.explorers.guru/validator/torivaloper16thhk7v3t50hu2ctwpnrhs5eqlt6rdswsd9vu0)
 - [Haqq](https://haqq.explorers.guru/validator/haqqvaloper1q36msyrnun4aaxp86mkhjn0dudua7wu7cuu5q6)
 - [Terp Network](https://github.com/terpnetwork/terp-core)
+- [Celestia](https://celestia.explorers.guru/validator/celestiavaloper15emn9te843l8fjvkyxld9j53w5megc5pcytwqm)
 
 Another projects:
 
