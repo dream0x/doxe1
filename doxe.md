@@ -27,18 +27,15 @@ Another projects:
 
 - [Massa](https://massa.net/)
 - [Masa](https://www.masa.finance/)
-- [Aptos](https://github.com/aptos-labs/aptos-core)
 - [StarkNet](https://starknet.io/)
 - [Minima](https://www.minima.global/)
 - [Quai](https://quai.network/)
-- [Subspace](https://github.com/subspace)
 - [Aleo](https://www.aleo.org/)
 - [Zeitgeist]()
 - [Humanode](https://humanode.io/)
 - [Sui network](https://mystenlabs.com/)
 - [Espresso Systems](https://www.espressosys.com/)
 - [Obol Network](https://obol.tech/)
-- [SubQuery](https://subquery.network/)
 - [Transformers](https://explorer.tfsc.io/#/pc/ValidatorBetail?address=1Motv3E2unDDbztpX6FUpFnCVdThq2gGo6&active=1&online=1&selfStake=9.9&delegateds=5000&delegated=10109.9&name=doxe)
 - [TIDEFI](https://telemetry.tidefi.io/#list/0xc87195c66912e4280aa2aa8498e5bd3fae699f364d3a156fd716a79f27f97c7f)
 
@@ -53,6 +50,9 @@ Another projects:
 - [Stride](https://stride.zone/)
 - [Rebus](https://www.rebuschain.com/)
 - [Sei Network](https://github.com/sei-protocol)
+- [SubQuery](https://subquery.network/)
+- [Subspace](https://github.com/subspace)
+- [Aptos](https://github.com/aptos-labs/aptos-core)
 
 ## Active Contributor:
 
