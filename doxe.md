@@ -63,4 +63,3 @@ Another projects:
 - [ClayStack]()
 - [Stride]()
 - [Massa]()
-- [Let's Node Team]()
