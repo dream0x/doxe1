@@ -39,7 +39,7 @@ Another projects:
 - [Espresso Systems](https://www.espressosys.com/)
 - [Obol Network](https://obol.tech/)
 - [SubQuery](https://subquery.network/)
-- [Transformers](https://tfsc.io/#/pc/Index)
+- [Transformers](https://explorer.tfsc.io/#/pc/ValidatorBetail?address=1Motv3E2unDDbztpX6FUpFnCVdThq2gGo6&active=1&online=1&selfStake=9.9&delegateds=5000&delegated=10109.9&name=doxe)
 - [TIDEFI](https://telemetry.tidefi.io/#list/0xc87195c66912e4280aa2aa8498e5bd3fae699f364d3a156fd716a79f27f97c7f)
 
 ## Archive:
