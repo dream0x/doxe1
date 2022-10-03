@@ -18,5 +18,5 @@ Here is my social, feel free to contact if you have any questions:
 - LinkedIn: https://www.linkedin.com/in/alexdoxe/
 
 My portfolio:
-- Translation blog: https://www.notion.so/doxe/Alexander-doxe-80e16bfced1e4be2aec86a954c811e3b
+- Writing blog: https://www.notion.so/doxe/Alexander-doxe-80e16bfced1e4be2aec86a954c811e3b
 - Cosmos Jobs (CV): https://jobs.cosmos.network/contributor/alexander-qvf6w3u-community-moderator-manager-ukraine/
