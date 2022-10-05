@@ -20,7 +20,7 @@ All in all, I've been doing this for **about 1 year**, and am very happy and fav
 
 ## Networks
 
-I actively participate in testnets of young networks, sometimes even become a genesis validator in mainnets. My list of networks: https://github.com/doxe1/doxe1/blob/main/doxe.md
+I actively participate in testnets of young networks, sometimes even become a genesis validator in mainnets. My list of [networks](https://github.com/doxe1/doxe1/blob/main/doxe.md).
 
 ## Contact me
 
