@@ -11,7 +11,18 @@ All in all, I've been doing this for **about 1 year**, and am very happy and fav
 
 ## Safety precautions
 
-I actively participate in testnets of young networks, sometimes even become a genesis validator in mainnets. Networks: https://github.com/doxe1/doxe1/blob/main/doxe.md
+- Removed the default SSH port 22 and are using another port for SSH.
+- Removed SSH login using root password (root-pass).
+- Fail2ban - SSH login is only allowed from 1 main IP and temporary access to another IP is allowed during travel.
+- Run dedicated powerful servers for all our nodes with NVMe SSD. A few settings have been specially updated for the best performance on the server. We regularly check and update for new updates for the operating system.
+- Storing all private files in multiple secure locations.
+- Storing and sending requests to the server, from the local machine, using binary files.
+
+## Networks
+
+I actively participate in testnets of young networks, sometimes even become a genesis validator in mainnets. My list of networks: https://github.com/doxe1/doxe1/blob/main/doxe.md
+
+## Contact me
 
 Here is my social, feel free to contact if you have any questions:
 
@@ -19,8 +30,7 @@ Here is my social, feel free to contact if you have any questions:
 - Twitter: https://twitter.com/doxe001
 - Discord: Instinckt | Let's Earn#2431
 - GitHub: https://github.com/doxe1
-- LinkedIn: https://www.linkedin.com/in/alexdoxe/
 
-My portfolio:
+## Another
 - Writing blog: https://www.notion.so/doxe/Alexander-doxe-80e16bfced1e4be2aec86a954c811e3b
 - Cosmos Jobs (CV): https://jobs.cosmos.network/contributor/alexander-qvf6w3u-community-moderator-manager-ukraine/
