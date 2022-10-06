@@ -25,20 +25,8 @@ All in all, I've been doing this for **about 1 year**, and am very happy and fav
 ![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 # Contact me
-![Twitter Follow](https://img.shields.io/twitter/follow/doxe001?style=social)
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/doxe01)
-
-Here is my social, feel free to contact if you have any questions:
-
-- Telegram: https://t.me/doxe01
-- Twitter: https://twitter.com/doxe001
-- Discord: Instinckt | Let's Earn#2431
-- GitHub: https://github.com/doxe1
-
-## Another
-- [Writing blog](https://www.notion.so/doxe/Alexander-doxe-80e16bfced1e4be2aec86a954c811e3b)
-- [Cosmos Jobs](https://jobs.cosmos.network/contributor/alexander-qvf6w3u-community-moderator-manager-ukraine/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/doxe01) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/doxe001) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xkKhhaFE6m) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/doxe1)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=doxe1&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false)<br/>
