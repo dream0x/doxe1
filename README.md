@@ -29,6 +29,6 @@ All in all, I've been doing this for **about 1 year**, and am very happy and fav
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/doxe01) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/doxe001) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xkKhhaFE6m) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/doxe1)
 
 ## 📊GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=doxe1&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=doxe1&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=doxe1&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=doxe1&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
