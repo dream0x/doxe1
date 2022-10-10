@@ -30,7 +30,6 @@ Another projects:
 - [Minima](https://www.minima.global/)
 - [Quai](https://quai.network/)
 - [Aleo](https://www.aleo.org/)
-- [Zeitgeist]()
 - [Humanode](https://humanode.io/)
 - [Sui network](https://mystenlabs.com/)
 - [Espresso Systems](https://www.espressosys.com/)
@@ -53,6 +52,8 @@ Another projects:
 - [Subspace](https://github.com/subspace)
 - [Aptos](https://github.com/aptos-labs/aptos-core)
 - [Teritori](https://teritori.com/)
+- [Zeitgeist](https://app.zeitgeist.pm/)
+- [StarkNet](https://starknet.io/)
 
 ## Active Contributor:
 
