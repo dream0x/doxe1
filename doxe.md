@@ -59,7 +59,6 @@ Another projects:
 - [BNB Chain]()
 - [TheGraph]()
 - [Connext]()
-- [Moonbeam]()
 - [ClayStack]()
 - [Stride]()
 - [Massa]()
