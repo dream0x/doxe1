@@ -10,6 +10,7 @@ I actively participate in testnets of young networks, sometimes even become a ge
 ## Main-Networks
 
 - [Canto](https://explorer.nodestake.top/canto/staking/cantovaloper1av3qr2thu8gk4kclgynusmdf74y3ers8j2ew89)
+- [Lambda](https://explorer.nodestake.top/lambda/staking/lambvaloper13rrvgsepqaax542wxld6msmm7qe8l0mehpvx7e)
 
 ## Test-Networks - Blockchains grow here
 
