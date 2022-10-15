@@ -23,6 +23,7 @@ Cosmos SDK projects:
 - [Celestia](https://celestia.explorers.guru/validator/celestiavaloper15emn9te843l8fjvkyxld9j53w5megc5pcytwqm)
 - [Androma](https://explorer.stavr.tech/andromeda/staking/andrvaloper1889luuera2x2689hsrf65t3jnfx7jtqxls7g95)
 - [Ollo](https://explorer.stavr.tech/ollo/staking/ollovaloper1quq3w0js8zdezjev49u4f8z9vzn5v9s2ll9hq7)
+- [Realio](https://test.anode.team/realio/staking/realiovaloper1k9hgtele8fsq5plgtsr60hfdfwj6z5krj05dps)
 
 Another projects:
 
