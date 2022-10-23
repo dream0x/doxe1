@@ -20,7 +20,7 @@ Cosmos SDK projects:
 - [DWS](https://dws.explorers.guru/validator/dewebvaloper1yxr0k94s25qck0umqdapqgtftk7a66trvs0vuf)
 - [Crowd Control](https://explorer.theamsolutions.info/Cardchain/staking/ccvaloper1n44vc78vjmuvpfcaxarzta8wsutrh08c28a7tj)
 - [Haqq](https://haqq.explorers.guru/validator/haqqvaloper1q36msyrnun4aaxp86mkhjn0dudua7wu7cuu5q6)
-- [Terp Network](https://github.com/terpnetwork/terp-core)
+- [Terp Network](https://explorer.stavr.tech/terp-network/staking/terpvaloper1zr2hytxvzvmhngfww3mjculq8d5dvh7axv6h6v)
 - [Celestia](https://celestia.explorers.guru/validator/celestiavaloper15emn9te843l8fjvkyxld9j53w5megc5pcytwqm)
 - [Androma](https://explorer.stavr.tech/andromeda/staking/andrvaloper1889luuera2x2689hsrf65t3jnfx7jtqxls7g95)
 - [Ollo](https://explorer.stavr.tech/ollo/staking/ollovaloper1quq3w0js8zdezjev49u4f8z9vzn5v9s2ll9hq7)
