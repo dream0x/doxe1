@@ -30,7 +30,6 @@ Another projects:
 
 - [Massa](https://massa.net/)
 - [Masa](https://www.masa.finance/)
-- [StarkNet](https://starknet.io/)
 - [Minima](https://www.minima.global/)
 - [Quai](https://quai.network/)
 - [Aleo](https://www.aleo.org/)
