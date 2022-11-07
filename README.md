@@ -1,4 +1,4 @@
-![doxe](https://github.com/doxe1/doxe1/blob/main/git-doxe.png)
+![doxe](https://github.com/doxe1/doxe1/blob/main/Banner.png)
 ## 💫 About Me:
 Howdy, I'm Alex, aka **@doxe** experienced web3 enthusiast, contributor, moderator and PoS/PoW validator, also just a friendly person.
 
