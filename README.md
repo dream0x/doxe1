@@ -1,4 +1,4 @@
-<img src="https://github.com/doxe1/doxe1/blob/main/Cover%20Sky.gif" width="100%">
+<img src="https://github.com/doxe1/doxe1/blob/main/cover.gif" width="100%" height="150">
 
 ## 💫 About Me:
 Howdy, I'm Alex, aka **@doxe** experienced web3 enthusiast, contributor, moderator and PoS/PoW validator, also just a friendly person.
