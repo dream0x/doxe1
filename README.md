@@ -21,18 +21,49 @@ _____
 <h3 name="intro" align="center">Operation systems </h3>
 
 _____
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+<div align="center">
+    <a href="https://en.wikipedia.org/wiki/Microsoft_Windows" target="_blank">
+        <img height="35px" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+    </a>
+    <a href="https://www.linux.com/what-is-linux/" target="_blank">
+        <img height="35px" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+    </a>
+    <a href="https://en.wikipedia.org/wiki/Android_(operating_system)" target="_blank">
+        <img height="35px" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+    </a>
+</div>
 
 _____
 <h3 name="intro" align="center">Сoding languages </h3>
 
 _____
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+<div align="center">
+    <a href="https://www.python.org/" target="_blank">
+        <img height="35px" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    </a>
+    <a href="https://en.wikipedia.org/wiki/Shell_script" target="_blank">
+        <img height="35px" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
+    </a>
+</div>
 
 _____
 <h3 name="intro" align="center">Contact me </h3>
 
 _____
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/doxe01) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/doxe001) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YZZ2m2sxDD) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/doxe1)
+<div align="center">
+    <a href="https://t.me/doxe01" target="_blank">
+        <img height="35px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+    </a>
+    <a href="https://twitter.com/doxe001" target="_blank">
+        <img height="35px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+    </a>
+    <a href="https://discord.gg/YZZ2m2sxDD" target="_blank">
+        <img height="35px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+    </a>
+    <a href="https://github.com/doxe1" target="_blank">
+        <img height="35px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+    </a>
+</div>
