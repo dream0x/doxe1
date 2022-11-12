@@ -6,12 +6,16 @@ _____
 
 _____
 
-## 💫 About Me:
-Howdy, I'm Alex, aka **@doxe** experienced web3 enthusiast, contributor, moderator and PoS/PoW validator, also just a friendly person.
+In today's world, it is important to understand your **goals** and keep them. For myself, I have **outlined several:**
 
-Some info about me - deep passion for web3 and decentralization. 2+ years in the crypto space with strong knowledge and use of DeFi dApps, L1/L2 blockchains and yield farming strategies. I thrive on daily ingestion of new developments in web3, including DeFi, community engagement and problem solving. Contributor, detail-oriented with a curious mind. What keeps me engaged is the fact that I learn something new every single day.
+- Stable support for my nodes, keeping track of their health, updates, security, and so on.
+- Helping newbies (writing guides, creating groups and just answering their questions)
+- Improving myself and learning something new.
+- Being friendly and providing support to projects at all stages that I'm involved in
 
-I actively participate in testnets of young networks, sometimes even become a genesis validator in mainnets. My list of [networks](https://github.com/doxe1/doxe1/blob/main/doxe.md).
+I actively participate in testnets of young networks, sometimes even become a genesis validator in mainnets. All information about this you can find in my portfolio.
+
+In fact, you can delegate your funds to me and we will passively earn profit together. If you choose me as validator, you will support and contribute to the decentralization and security of this network.
 
 
 ## 💻 Operation systems 
