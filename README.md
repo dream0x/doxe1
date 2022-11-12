@@ -13,7 +13,7 @@ In today's world, it is important to understand your **goals** and keep them. Fo
 - Improving myself and learning something new.
 - Being friendly and providing support to projects at all stages that I'm involved in
 
-I actively participate in testnets of young networks, sometimes even become a genesis validator in mainnets. All information about this you can find in my portfolio.
+I actively participate in testnets of young networks, sometimes even become a genesis validator in mainnets. All information about this you can find in my [portfolio](https://github.com/doxe1/doxe1/blob/main/doxe.md).
 
 In fact, you can delegate your funds to me and we will passively earn profit together. If you choose me as validator, you will support and contribute to the decentralization and security of this network.
 
