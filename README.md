@@ -1,4 +1,5 @@
-![doxe](https://github.com/doxe1/doxe1/blob/main/Banner.png)
+<img src="https://github.com/doxe1/doxe1/blob/main/Cover%20Sky.gif" width="100%">
+
 ## 💫 About Me:
 Howdy, I'm Alex, aka **@doxe** experienced web3 enthusiast, contributor, moderator and PoS/PoW validator, also just a friendly person.
 
