@@ -1,7 +1,7 @@
 <img src="https://github.com/doxe1/doxe1/blob/main/cover.gif" width="100%" height="150">
 
 _____
-<h3 align="center">Alexander, also known as <a href="https://t.me/doxe01" target="_blank">doxe</a>.</h3>
+<h3 align="center">Alex, also known as <a href="https://t.me/doxe01" target="_blank">doxe</a>.</h3>
 <p align="center">Experienced web3 enthusiast, contributor, moderator and PoS/PoW validator, also just a friendly person </p>
 
 _____
