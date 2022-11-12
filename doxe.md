@@ -35,7 +35,6 @@ _____
 <h3 name="intro" align="center">Cosmos testnets</h3>
 
 _____
-Cosmos SDK projects:
 
 - [DeFund](https://defund.explorers.guru/validator/defundvaloper1rkk3vkd3rrarghaxtjgsfplysd0zcw2c03t5p8)
 - [Haqq](https://haqq.explorers.guru/validator/haqqvaloper1q36msyrnun4aaxp86mkhjn0dudua7wu7cuu5q6)
@@ -45,7 +44,7 @@ Cosmos SDK projects:
 - [Realio](https://test.anode.team/realio/staking/realiovaloper1k9hgtele8fsq5plgtsr60hfdfwj6z5krj05dps)
 
 _____
-<h3 name="intro" align="center">Another testnets</h3>
+<h3 name="intro" align="center">Another networks testnets</h3>
 
 _____
 
