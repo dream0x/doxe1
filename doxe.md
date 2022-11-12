@@ -83,3 +83,23 @@ _____
 - [Ollo](https://explorer.stavr.tech/ollo/staking/ollovaloper1quq3w0js8zdezjev49u4f8z9vzn5v9s2ll9hq7)
 - [DWS](https://dws.explorers.guru/validator/dewebvaloper1yxr0k94s25qck0umqdapqgtftk7a66trvs0vuf)
 - [Crowd Control](https://explorer.theamsolutions.info/Cardchain/staking/ccvaloper1n44vc78vjmuvpfcaxarzta8wsutrh08c28a7tj)
+
+_____
+<h3 name="intro" align="center">Contact me </h3>
+
+_____
+
+<div align="center">
+    <a href="https://t.me/doxe01" target="_blank">
+        <img height="35px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+    </a>
+    <a href="https://twitter.com/doxe001" target="_blank">
+        <img height="35px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+    </a>
+    <a href="https://discord.gg/YZZ2m2sxDD" target="_blank">
+        <img height="35px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+    </a>
+    <a href="https://github.com/doxe1" target="_blank">
+        <img height="35px" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+    </a>
+</div>
