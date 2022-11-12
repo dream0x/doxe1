@@ -8,14 +8,14 @@ _____
 
 In today's world, it is important to understand your **goals** and keep them. For myself, I have **outlined several:**
 
-- Stable support for my nodes, keeping track of their health, updates, security, and so on.
-- Helping newbies (writing guides, creating groups and just answering their questions)
-- Improving myself and learning something new.
-- Being friendly and providing support to projects at all stages that I'm involved in
+- **Stable support** for my nodes, keeping track of their health, updates, security, and so on.
+- **Helping newbies** (writing guides, creating groups and just answering their questions).
+- **Improving myself** and learning something new.
+- **Being friendly and providing support** to projects at all stages that I'm involved in.
 
-I actively participate in testnets of young networks, sometimes even become a genesis validator in mainnets. All information about this you can find in my [portfolio](https://github.com/doxe1/doxe1/blob/main/doxe.md). Also, I am constantly updating the [guide](https://github.com/doxe1/useful-cmd/blob/main/README.md), which contains useful commands for working with the server and with networks.
+I actively participate in **testnets of young networks**, sometimes even become a **genesis validator** in mainnets. All information about this you can find in my [portfolio](https://github.com/doxe1/doxe1/blob/main/doxe.md). Also, I am constantly updating the [guide](https://github.com/doxe1/useful-cmd/blob/main/README.md), which contains **useful commands** for working with the server and with networks.
 
-In fact, you can delegate your funds to me and we will passively earn profit together. If you choose me as validator, you will support and contribute to the decentralization and security of this network.
+In fact, you can **delegate** your funds to me and we will **passively earn** profit together. If you choose me as validator, you will support and contribute to the **decentralization** and **security** of this network.
 
 _____
 <h3 name="intro" align="center">Operation systems </h3>
