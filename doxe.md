@@ -41,7 +41,6 @@ _____
 - [Terp Network](https://explorer.stavr.tech/terp-network/staking/terpvaloper1zr2hytxvzvmhngfww3mjculq8d5dvh7axv6h6v)
 - [Celestia](https://celestia.explorers.guru/validator/celestiavaloper15emn9te843l8fjvkyxld9j53w5megc5pcytwqm)
 - [Androma](https://explorer.stavr.tech/andromeda/staking/andrvaloper1889luuera2x2689hsrf65t3jnfx7jtqxls7g95)
-- [Realio](https://test.anode.team/realio/staking/realiovaloper1k9hgtele8fsq5plgtsr60hfdfwj6z5krj05dps)
 
 _____
 <h3 name="intro" align="center">Another networks testnets</h3>
@@ -83,6 +82,7 @@ _____
 - [Ollo](https://explorer.stavr.tech/ollo/staking/ollovaloper1quq3w0js8zdezjev49u4f8z9vzn5v9s2ll9hq7)
 - [DWS](https://dws.explorers.guru/validator/dewebvaloper1yxr0k94s25qck0umqdapqgtftk7a66trvs0vuf)
 - [Crowd Control](https://explorer.theamsolutions.info/Cardchain/staking/ccvaloper1n44vc78vjmuvpfcaxarzta8wsutrh08c28a7tj)
+- [Realio](https://test.anode.team/realio/staking/realiovaloper1k9hgtele8fsq5plgtsr60hfdfwj6z5krj05dps)
 
 _____
 <h3 name="intro" align="center">Contact me </h3>
