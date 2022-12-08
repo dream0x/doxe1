@@ -36,7 +36,6 @@ _____
 
 _____
 
-- [DeFund](https://defund.explorers.guru/validator/defundvaloper1rkk3vkd3rrarghaxtjgsfplysd0zcw2c03t5p8)
 - [Haqq](https://haqq.explorers.guru/validator/haqqvaloper1q36msyrnun4aaxp86mkhjn0dudua7wu7cuu5q6)
 - [Terp Network](https://explorer.stavr.tech/terp-network/staking/terpvaloper1zr2hytxvzvmhngfww3mjculq8d5dvh7axv6h6v)
 - [Celestia](https://celestia.explorers.guru/validator/celestiavaloper15emn9te843l8fjvkyxld9j53w5megc5pcytwqm)
@@ -83,6 +82,7 @@ _____
 - [Transformers](https://explorer.tfsc.io/#/pc/ValidatorBetail?address=1Motv3E2unDDbztpX6FUpFnCVdThq2gGo6&active=1&online=1&selfStake=9.9&delegateds=5000&delegated=10109.9&name=doxe)
 - [TIDEFI](https://telemetry.tidefi.io/#list/0xc87195c66912e4280aa2aa8498e5bd3fae699f364d3a156fd716a79f27f97c7f)
 - [Bifrost](https://explorer.testnet.thebifrost.io/address/0x0E27E3FE4cD27Ffe86Bba171c3033a0eb90A9853)
+- [DeFund](https://defund.explorers.guru/validator/defundvaloper1rkk3vkd3rrarghaxtjgsfplysd0zcw2c03t5p8)
 
 _____
 <h3 name="intro" align="center">Contact me </h3>
