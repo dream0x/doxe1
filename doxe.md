@@ -28,8 +28,7 @@ _____
 
 _____
 
-- [Canto](https://explorer.nodestake.top/canto/staking/cantovaloper1av3qr2thu8gk4kclgynusmdf74y3ers8j2ew89)
-- [Lambda](https://explorer.nodestake.top/lambda/staking/lambvaloper13rrvgsepqaax542wxld6msmm7qe8l0mehpvx7e)
+coming soon...
 
 _____
 <h3 name="intro" align="center">Cosmos testnets</h3>
@@ -37,7 +36,6 @@ _____
 _____
 
 - [Haqq](https://haqq.explorers.guru/validator/haqqvaloper1q36msyrnun4aaxp86mkhjn0dudua7wu7cuu5q6)
-- [Celestia](https://celestia.explorers.guru/validator/celestiavaloper15emn9te843l8fjvkyxld9j53w5megc5pcytwqm)
 
 _____
 <h3 name="intro" align="center">Another networks testnets</h3>
@@ -49,7 +47,6 @@ _____
 - [Minima](https://www.minima.global/)
 - [Quai](https://quai.network/)
 - [Aleo](https://www.aleo.org/)
-- [Humanode](https://humanode.io/)
 - [Sui network](https://mystenlabs.com/)
 - [Espresso Systems](https://www.espressosys.com/)
 - [Obol Network](https://obol.tech/)
@@ -83,7 +80,10 @@ _____
 - [DeFund](https://defund.explorers.guru/validator/defundvaloper1rkk3vkd3rrarghaxtjgsfplysd0zcw2c03t5p8)
 - [Terp Network](https://explorer.stavr.tech/terp-network/staking/terpvaloper1zr2hytxvzvmhngfww3mjculq8d5dvh7axv6h6v)
 - [Androma](https://explorer.stavr.tech/andromeda/staking/andrvaloper1889luuera2x2689hsrf65t3jnfx7jtqxls7g95)
-
+- [Celestia](https://celestia.explorers.guru/validator/celestiavaloper15emn9te843l8fjvkyxld9j53w5megc5pcytwqm)
+- [Canto](https://explorer.nodestake.top/canto/staking/cantovaloper1av3qr2thu8gk4kclgynusmdf74y3ers8j2ew89)
+- [Lambda](https://explorer.nodestake.top/lambda/staking/lambvaloper13rrvgsepqaax542wxld6msmm7qe8l0mehpvx7e)
+- [Humanode](https://humanode.io/)
 _____
 <h3 name="intro" align="center">Contact me </h3>
 
