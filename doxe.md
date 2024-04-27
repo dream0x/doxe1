@@ -35,7 +35,7 @@ _____
 
 _____
 
-- [Haqq](https://haqq.explorers.guru/validator/haqqvaloper1q36msyrnun4aaxp86mkhjn0dudua7wu7cuu5q6)
+coming soon...
 
 _____
 <h3 name="intro" align="center">Another networks testnets</h3>
@@ -47,7 +47,6 @@ _____
 - [Minima](https://www.minima.global/)
 - [Quai](https://quai.network/)
 - [Aleo](https://www.aleo.org/)
-- [Sui network](https://mystenlabs.com/)
 - [Espresso Systems](https://www.espressosys.com/)
 - [Obol Network](https://obol.tech/)
 _____
@@ -56,6 +55,8 @@ _____
 _____
 
 - [Archway](https://github.com/archway-network)
+- [Sui network](https://mystenlabs.com/)
+- [Haqq](https://haqq.explorers.guru/validator/haqqvaloper1q36msyrnun4aaxp86mkhjn0dudua7wu7cuu5q6)
 - [Kujira](https://kujira.app/)
 - [Stafihub](https://www.stafihub.io/)
 - [Another-1](https://linktr.ee/marketing_another.1)
