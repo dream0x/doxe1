@@ -43,17 +43,18 @@ _____
 
 _____
 
+soon
+_____
+<h3 name="intro" align="center">Archive</h3>
+
+_____
+
 - [Masa](https://www.masa.finance/)
 - [Minima](https://www.minima.global/)
 - [Quai](https://quai.network/)
 - [Aleo](https://www.aleo.org/)
 - [Espresso Systems](https://www.espressosys.com/)
 - [Obol Network](https://obol.tech/)
-_____
-<h3 name="intro" align="center">Archive</h3>
-
-_____
-
 - [Archway](https://github.com/archway-network)
 - [Sui network](https://mystenlabs.com/)
 - [Haqq](https://haqq.explorers.guru/validator/haqqvaloper1q36msyrnun4aaxp86mkhjn0dudua7wu7cuu5q6)
