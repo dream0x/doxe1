@@ -6,9 +6,7 @@ _____
 
 _____
 
-**DIPWORTH** actively participate in **testnets of young networks**, become a **genesis validator** in mainnets. All information about this you can find in my [portfolio](https://github.com/doxe1/doxe1/blob/main/doxe.md). Also, I am constantly updating the [guide](https://github.com/doxe1/useful-cmd/blob/main/README.md), which contains **useful commands** for working with the server and with networks.
-
-In fact, you can **delegate** your funds to me and we will **passively earn** profit together. If you choose me as validator, you will support and contribute to the **decentralization** and **security** of this network.
+DIPWORTH is a dynamic Ukrainian team specializing in secure and reliable staking solutions for PoS blockchains. As the founder, I lead our efforts in supporting projects from testnet to mainnet, ensuring top-tier security, robust monitoring, and comprehensive services like RPC, analytics, and snapshots. We are committed to building trust and fostering a vibrant community with expert ambassadors and creative support for video, graphics, and moderation. Join us as we grow and make significant strides in the blockchain space.
 
 _____
 <h3 name="intro" align="center">Contact me </h3>
