@@ -2,51 +2,13 @@
 
 _____
 <h3 align="center">Alex, also known as <a href="https://t.me/doxe01" target="_blank">doxe</a>.</h3>
-<p align="center">Experienced web3 enthusiast, contributor, moderator and PoS/PoW validator, also just a friendly person </p>
+<p align="center">Founder of <a href="https://github.com/dipworth" target="_blank">DIPWORTH</a>, contributor, moderator and PoS/PoW validator, also just a friendly person </p>
 
 _____
 
-In today's world, it is important to understand your **goals** and keep them. For myself, I have **outlined several:**
-
-- **Stable support** for my nodes, keeping track of their health, updates, security, and so on.
-- **Helping newbies** (writing guides, creating groups and just answering their questions).
-- **Improving myself** and learning something new.
-- **Being friendly and providing support** to projects at all stages that I'm involved in.
-
-I actively participate in **testnets of young networks**, sometimes even become a **genesis validator** in mainnets. All information about this you can find in my [portfolio](https://github.com/doxe1/doxe1/blob/main/doxe.md). Also, I am constantly updating the [guide](https://github.com/doxe1/useful-cmd/blob/main/README.md), which contains **useful commands** for working with the server and with networks.
+**DIPWORTH** actively participate in **testnets of young networks**, become a **genesis validator** in mainnets. All information about this you can find in my [portfolio](https://github.com/doxe1/doxe1/blob/main/doxe.md). Also, I am constantly updating the [guide](https://github.com/doxe1/useful-cmd/blob/main/README.md), which contains **useful commands** for working with the server and with networks.
 
 In fact, you can **delegate** your funds to me and we will **passively earn** profit together. If you choose me as validator, you will support and contribute to the **decentralization** and **security** of this network.
-
-_____
-<h3 name="intro" align="center">Operation systems </h3>
-
-_____
-
-<div align="center">
-    <a href="https://en.wikipedia.org/wiki/Microsoft_Windows" target="_blank">
-        <img height="35px" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-    </a>
-    <a href="https://www.linux.com/what-is-linux/" target="_blank">
-        <img height="35px" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-    </a>
-    <a href="https://en.wikipedia.org/wiki/Android_(operating_system)" target="_blank">
-        <img height="35px" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-    </a>
-</div>
-
-_____
-<h3 name="intro" align="center">Сoding languages </h3>
-
-_____
-
-<div align="center">
-    <a href="https://www.python.org/" target="_blank">
-        <img height="35px" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    </a>
-    <a href="https://en.wikipedia.org/wiki/Shell_script" target="_blank">
-        <img height="35px" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
-    </a>
-</div>
 
 _____
 <h3 name="intro" align="center">Contact me </h3>
